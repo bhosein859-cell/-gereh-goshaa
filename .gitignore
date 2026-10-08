@@ -1,0 +1,30 @@
+# فلاتر/دارت
+.dart_tool/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.dart_tool/
+pubspec.lock
+
+# اندروید/ویندوز تولیدشده
+android/
+windows/
+linux/
+macos/
+ios/
+web/
+
+# سیستم‌عامل و ویرایشگر
+.DS_Store
+Thumbs.db
+*.log
+.idea/
+.vscode/
+*.iml
+
+# خروجی‌های محلی
+dist/
+*.keystore
+*.jks
+key.properties
